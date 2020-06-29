@@ -26,6 +26,11 @@
             <artifactId>coral-common-service</artifactId>
         </dependency>
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 7c2e64a... zxy
         <!--shiro-->
         <dependency>
             <groupId>org.apache.shiro</groupId>

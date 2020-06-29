@@ -2,6 +2,11 @@
 package com.gemframework.utils;
 
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 7c2e64a... zxy
 import com.sun.org.apache.xerces.internal.impl.dv.util.Base64;
 
 import javax.crypto.Cipher;

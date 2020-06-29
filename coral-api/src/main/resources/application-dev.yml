@@ -30,7 +30,12 @@ spring:
     # 填写你数据库的url、登录名、密码和数据库名
     url: jdbc:mysql://localhost:3306/coral?characterEncoding=utf8&useSSL=false&serverTimezone=GMT%2b8
     username: root
+<<<<<<< HEAD
     password: root
+=======
+    password: password
+    #password: root
+>>>>>>> 7c2e64a... zxy
 
     druid:
       # 连接池的配置信息
